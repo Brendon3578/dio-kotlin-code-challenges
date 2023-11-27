@@ -2,7 +2,7 @@
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-Esse repositório foi feito com o objetivo de armazenar as soluções feitas para os desafios de códigos e projetos da Digital Innovation One feito para o estudo da linguagem de programação multiplataforma `Kotlin`.
+Resoluções de desafios de códigos e projetos da Digital Innovation One feito para o estudo da linguagem de programação `Kotlin`.
 
 ## Lista de Projetos feitos em repositórios à parte
 
